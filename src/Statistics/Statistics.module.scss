@@ -1,0 +1,29 @@
+.Statistics {
+  width: 375px;
+  min-height: 100px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  background-color: #eee;
+}
+.Title {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.StatList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.Item {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 1px solid;
+}
