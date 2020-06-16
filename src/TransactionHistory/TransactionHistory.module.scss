@@ -1,0 +1,28 @@
+.TransactionHistory {
+  width: 375px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  thead {
+    tr {
+      th {
+        width: 30%;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        background-color: teal;
+        color: whitesmoke;
+      }
+    }
+  }
+  tbody {
+    tr {
+      td {
+        width: 30%;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border: 1px solid #eee;
+      }
+    }
+  }
+}
